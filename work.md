@@ -6,8 +6,10 @@
 This dataset contains information on monkeypox cases and deaths across different locations from May 2022 to May 2023. The data includes 33666 rows and 15 columns, with each row representing a unique combination of location, date, and corresponding monkeypox cases and deaths. The dataset is sourced from the Our World in Data project and has no missing values.
 [https://www.kaggle.com/datasets/utkarshx27/mpox-monkeypox-data]
 
-Countries with the highest total number of cases
-Countries with the highest deaths cases
-Total case rate by their highest population
-Total cases and deaths for only African Continents
+These are the questions I asked the data and the insights were amazing.
+
+1. Countries with the highest total number of cases
+2. Countries with the highest deaths cases
+3. Total case rate by their highest population
+4. Total cases and deaths for only African Continents 
 
